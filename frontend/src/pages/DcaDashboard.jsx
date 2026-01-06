@@ -1,9 +1,9 @@
-import { useEffect, useState } from "react";
-import { getCases } from "../api";
+import {useEffect,useState} from "react";
+import api from "../api";
 import CaseTable from "../components/CaseTable";
 
-export default function DcaDashboard(){
-  const [cases,setCases] = useState([]);
-  useEffect(()=>{ getCases("DCA001").then(setCases); },[]);
-  return <CaseTable data={cases} />;
-}
+export default ()=>{
+ const [cases,setCases]=useState([]);
+ useEffect(()=>{api.get("/dca_portal/DCA001").then(r=>setCases(r.data));},[]);
+ return <CaseTable data={cases}/>;
+};

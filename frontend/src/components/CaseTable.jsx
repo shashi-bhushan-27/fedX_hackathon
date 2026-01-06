@@ -1,5 +1,5 @@
-export default ({data}) => (
-<table>
+export default ({data})=>(
+<table border="1" width="100%">
 <tr><th>Case</th><th>Amount</th><th>Status</th></tr>
 {data.map(c=>(
 <tr key={c.case_id}>
