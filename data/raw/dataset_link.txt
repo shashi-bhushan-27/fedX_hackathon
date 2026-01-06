@@ -1,0 +1,7 @@
+the dataset is huge to upload and process on github, so i have given the dataset link.
+you can download it and run the <transform_to_flex_dca> file.
+
+I have uploaded the compressed processed file at /data/processed.
+
+lending club loan data - https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv?select=loan.csv
+UCI_Credit_Card - https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset

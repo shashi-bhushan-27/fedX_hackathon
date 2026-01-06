@@ -33,7 +33,8 @@ uci_final = uci[[
 lc["amount"] = lc["loan_amnt"]
 lc["due_days"] = np.random.randint(10, 90, size=len(lc))
 lc["invoice_count"] = np.random.randint(1,5,size=len(lc))
-lc["credit_score"] = lc["grade"].astype("category").cat.codes * 100 + 600
+
+lc["credit_score"] = (lc["grade"].astype("category").cat.codes.astype("int32") * 100 + 600)
 lc["previous_collections"] = lc["total_pymnt"]
 lc["historical_default_rate"] = (lc["loan_status"]!="Fully Paid").astype(int)
 lc["recovered"] = (lc["loan_status"]=="Fully Paid").astype(int)
