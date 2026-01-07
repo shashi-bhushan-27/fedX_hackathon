@@ -7,8 +7,8 @@ load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 EMBED = SentenceTransformer("all-MiniLM-L6-v2")
 
-index = faiss.read_index("backend/app/rag/vector_store/faiss.index")
-docs = pickle.load(open("backend/app/rag/vector_store/docs.pkl","rb"))
+index = faiss.read_index("app/rag/vector_store/faiss.index")
+docs = pickle.load(open("app/rag/vector_store/docs.pkl","rb"))
 
 def ask_copilot(question: str):
     q = EMBED.encode([question])
