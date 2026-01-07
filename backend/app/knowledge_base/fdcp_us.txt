@@ -1,0 +1,7 @@
+Fair Debt Collection Practices Act (FDCPA) - United States
+
+This file contains information about the Fair Debt Collection Practices Act regulations applicable to debt collection agencies operating in the United States.
+
+Collectors must not call before 8am or after 9pm.
+Harassment, threats, or false statements are prohibited.
+Consumers may request written validation of debt.

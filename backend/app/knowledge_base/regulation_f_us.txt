@@ -1,0 +1,5 @@
+Regulation F - United States
+
+This file contains information about Regulation F, which implements the Fair Debt Collection Practices Act and provides specific rules for debt collection practices.
+Collectors may use email and text only with prior consent.
+Seven attempts within seven days is considered excessive.

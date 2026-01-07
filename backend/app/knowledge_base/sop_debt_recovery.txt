@@ -1,0 +1,734 @@
+                    Standard operating procedure
+
+                     SOP 9.0 Debt management
+
+         Published date:
+
+         Availability:        Internal only
+
+                              To detail the procedure for the Regulator’s
+         Purpose:
+                              management of debt recovery.
+
+         Owner:               Executive General Manager of Corporate Services
+
+         Category:            Debt management
+
+         Sub-category:
+
+         Contact:             Manager of Finance and Procurement Section
+
+
+  The electronic version published on the intranet is the current standard operating
+                                    procedure.
+
+
+
+
+V1.0 – 21/06/2013                SOP 9.0 Debt management                        1|P a g e
+Contents
+Introduction ........................................................................................................................... 3
+   Scope ................................................................................................................................ 4
+Standard operating procedure .............................................................................................. 4
+   Legislative framework ....................................................................................................... 8
+   Related policies and references ........................................................................................ 8
+      Chief Executive Instructions .......................................................................................... 8
+      Policies .......................................................................................................................... 8
+      Standard operating procedures ..................................................................................... 8
+      Other references ........................................................................................................... 9
+Consultation.......................................................................................................................... 9
+Endorsement ........................................................................................................................ 9
+Approval ............................................................................................................................... 9
+Version control.................................................................................................................... 10
+Appendix A: BPM 9.0 Debt management ........................................................................... 11
+Appendix B: Reminder letter template ................................................................................ 12
+Appendix C: Demand letter template .................................................................................. 14
+Appendix D: Costing template ............................................................................................ 16
+Appendix E: Minute template .............................................................................................. 17
+
+
+
+
+V1.0 – 21/06/2013                     SOP 9.0 Debt management                                                                 2|P a g e
+   Summary of main points
+   This standard operating procedure details the general process adopted and used by
+   the Regulator to manage its debt recovery function.
+   This standard operating procedure applies to Central Debt Management (CDM),
+   Finance and Procurement Section, Legal Services Section (Legal) and business
+   areas.
+
+
+
+
+Introduction
+In debt management, amounts owing to the Commonwealth should immediately be paid in
+full when they become due for payment. However, in certain circumstances it may be
+appropriate to defer the time for payment, allow payment by instalments or waive the
+amount owing to the Commonwealth. Section 34 of the Financial Management and
+Accountability Act 1997 (FMA Act) provides the Finance Minister with the power to make
+such decisions. These powers have been delegated under the FMA delegations.
+This standard operating procedure (SOP) is an overarching debt management SOP which
+incorporates relevant authority under the FMA Act, Chief Executive Instructions and the
+P9 Debt Management policy.
+This SOP branches out into the respective SOP for each debt management option
+including:
+
+    •   SOP 9.1 Debt management – carbon price shortfall charge
+
+    •   SOP 9.1a Debt management – shortfall charge
+
+    •   SOP 9.2 Request for deferral
+
+    •   SOP 9.3 Request for instalment arrangement
+
+    •   SOP 9.4 Debt waiver
+
+    •   SOP 9.5 Remitting a debt, and
+
+    •   SOP 9.6 Employee debts.
+
+
+
+
+V1.0 – 21/06/2013         SOP 9.0 Debt management                                 3|P a g e
+Scope
+This SOP is an overarching SOP for debt management. It serves as a starting point for
+officials of the Regulator who are responsible for managing debt, from raising an invoice to
+escalating a debt matter for legal advice.
+This SOP sets out the general process to be followed in managing a debt, but the
+circumstances surrounding each debt will be different and a situation may arise which does
+not fit neatly within this procedure. If you are unsure about the next step to take, please
+contact CDM or Legal.
+
+
+
+Standard operating procedure
+There are several debt management options that may come into play at any point during
+the debt management process.
+These options include deferring payment, allowing payment by instalments, waiving a debt
+or remitting a debt, and are described in the following SOPs:
+
+•   SOP 9.2 Request for deferral
+•   SOP 9.3 Request for instalment arrangement
+•   SOP 9.4 Debt waiver, and
+•   SOP 9.5 Remitting a debt.
+
+Person/position/team Responsibility
+
+Debtor                   1. Action payment of debt.
+                         2. Dispute debt.
+                             The debtor can dispute the debt with the business area at any
+                             point during the process if they believe the debt is not valid or
+                             incorrect. Ample opportunity is provided throughout the debt
+                             management process for the debtor to dispute the debt before
+                             penalties are incurred.
+
+Business area             1. Raise and issue invoice.
+                             An officer should raise and issue the invoice for revenue
+                             which relates to their area. Request the Finance and
+                             Procurement Section raise the invoice if the business area
+                             does not have access to do so. The relevant revenue
+                             nominals from the Chart of Accounts are detailed in Appendix
+                             A: BPM 9.0 Debt management.
+                         2. Run an aged debtors report and liaise with the debtor via
+                            phone and letter.
+
+
+
+
+V1.0 – 21/06/2013        SOP 9.0 Debt management                                     4|P a g e
+                      An officer should run an aged debtors report each fortnight or
+                      more frequently if required.
+                      The debtor may dispute a debt at any point. This will require a
+                      debt file to be prepared and passed over to CDM.
+                    3. Identify debts that are 15 days outstanding and request
+                       payment from the debtor by phone.
+                        Debts that are five days outstanding should be followed up
+                        immediately if they are deemed to be high value or high risk to
+                        the Regulator (refer to P9 Debt management policy for
+                        definitions of high value and high risk debts).
+                        Document the key points from each phone call with the debtor
+                        in a file note. This is important as it will form part of the debt
+                        file which CDM and Legal may require.
+                        Prepare and send out a 15 day reminder letter using the
+                        template at Appendix B: Reminder letter template.
+                    4. Identify debts that are 30 days outstanding and request
+                       payment from the debtor by phone.
+                        Advise the debtor that a 30 day reminder letter will be sent
+                        following the phone call regardless of whether or not payment
+                        is being paid soon.
+                        Document the key points from each phone call with the debtor
+                        in a file note.
+                        Prepare and send out a 30 day reminder letter using the
+                        template at Appendix B: Reminder letter template.
+                    5. Identify debts that are 60 days outstanding and request
+                       payment from the debtor by phone.
+                        Advise the debtor that a 60 day demand letter will be sent
+                        following the phone call regardless of whether or not payment
+                        is being paid soon.
+                        Document the key points from each phone call with the debtor
+                        in a file note.
+                        Prepare and send out a 60 day letter of demand using the
+                        template at Appendix C: Letter of demand template. Liaise
+                        with Legal before preparing the letter of demand.
+                    6. Identify debts that are 90 days outstanding and request
+                       payment from the debtor by phone.
+                        Advise the debtor that the matter is being passed to CDM and
+                        may lead to legal action.
+
+
+
+
+V1.0 – 21/06/2013   SOP 9.0 Debt management                                      5|P a g e
+                    7. Prepare the debt file.
+                        In accordance with the Regulator’s Record management
+                        policy, the debt file should be stored in an official records
+                        management system. Where this is not available, the debt file
+                        should be printed to be included in a TRIM-managed
+                        hardcopy file.
+                        The debt file should be prepared and escalated to CDM within
+                        the 90 days outstanding period at the latest. If the debt is
+                        deemed to be high value or high risk, the project officer should
+                        prepare a debt file and escalate to CDM within the 30 days
+                        outstanding period.
+                        The debt file should include evidence of the debt, the invoice,
+                        letters sent to debtor, details of phone calls, confirmation of
+                        the debtor's contact details and sign-off to pass the file to
+                        CDM. The project officer should also notify Legal at this point.
+
+Central Debt        1. Receive request from the business area to continue debt
+Management (CDM)       recovery management.
+                        Respond to the business area indicating acceptance of the
+                        handover. Record the debt case on a CDM debt register.
+                    2. Review the debt file.
+                        The debt manager should oversee and administrate all debt
+                        matters referred to CDM. The handover point from the
+                        business area is the point at which the debt file is passed over
+                        to CDM.
+                    3. Assess whether the debt is economic to recover.
+                        Where the costs of recovery exceed the value of the debt, it is
+                        not economical to recover the debt. Refer to Appendix D:
+                        Costing template.
+                        If the debt is not economical to recover, proceed to write-off at
+                        step 7.
+                    4. Identify any set-off, third party recovery or remission
+                       options.
+                        There may be provisions you can apply to set-off or remit all
+                        or part of a debt.
+                        The Regulator has a power to demand payment from a third
+                        party which owes or may later owe money to the debtor, but
+                        only in relation to the particular debts under the Renewable
+                        Energy Target scheme. Refer to Appendix A: BPM 9.0 Debt
+                        management for applicable legislative references.
+
+
+
+
+V1.0 – 21/06/2013   SOP 9.0 Debt management                                     6|P a g e
+                    5. Prepare recommendation for legal action.
+                        Update the debt file and prepare a minute for the Chief
+                        Financial Officer (CFO) seeking approval to obtain advice
+                        from Legal or engage a debt collector. Refer to Appendix E:
+                        Minute template or Appendix F: Engage debt collector.
+                        If the CFO approves, provide the updated debt file and signed
+                        CFO minute to Legal and/or engage a debt collector. If the
+                        CFO declines, continue to the next step.
+                    6. Continue to follow up the debt.
+                        Request payment by phone again and continue to follow up
+                        with debtor. Document the key points from each phone call
+                        with the debtor in a file note.
+                        Reconsider whether recovery of the debt is economical.
+                    7. Obtain CFO approval for write-off.
+                        If a debt appears to be not economic to recover, prepare a
+                        minute for the CFO to seek approval for writing off the debt.
+                        Refer to Appendix E: Minute template.
+                    8. Process the write-off entry in TechOne (FMIS).
+
+Legal               1. Provide legal assessment and advice on debt recovery
+                       options.
+                    2. Liaise with CDM and external legal providers as
+                       appropriate.
+                        Consider debt recovery litigation options as per the P9 Debt
+                        management policy.
+                        Prepare relevant documentation for any external legal
+                        providers who will be engaged. This documentation should
+                        include the updated debt file received from CDM and a
+                        request for advice on the appropriate legal action.
+
+
+
+
+V1.0 – 21/06/2013   SOP 9.0 Debt management                                    7|P a g e
+Legislative framework
+Reference                                                           Section or regulation
+
+Clean Energy Act 2011                                               Refer to Appendix A
+
+Financial Management and Accountability Act 1997                    Refer to Appendix A
+
+Financial Management and Accountability (Finance Minister to        Refer to Appendix A
+Chief Executives) Delegation 2010.
+
+Australian National Registry of Emissions Units Act 2011            Refer to Appendix A
+
+Renewable Energy (Electricity) Act 2000                             Refer to Appendix A
+
+Carbon Credits (Carbon Farming Initiative) Act 2011                 Refer to Appendix A
+
+Corporations Act 2001                                               Refer to Appendix A
+
+
+
+Related policies and references
+
+    Chief Executive Instructions
+                    •   CEI 9.0 Managing debt
+                    •   CEI 9.1 Recovery of debts
+                    •   CEI 9.2 Non-recovery (write-off) of debts
+                    •   CEI 9.3 Waiving debts
+                    •   CEI 9.4 Payment by instalments or deferral of the time for payment
+
+
+    Policies
+                    •   P9 Debt management policy
+                    •   CER Records management policy
+
+
+    Standard operating procedures
+                    •   SOP 9.1 Debt management – carbon price shortfall charge
+                    •   SOP 9.1.a Debt management – shortfall charge
+                    •   SOP 9.2 Request for deferral
+                    •   SOP 9.3 Request for instalment arrangement
+
+
+
+V1.0 – 21/06/2013            SOP 9.0 Debt management                                  8|P a g e
+                    •   SOP 9.4 Debt waiver
+                    •   SOP 9.5 Remitting a debt
+                    •   SOP 9.6 Employee debts
+
+
+    Other references
+                    •   CER Approach to debt recovery (Legal)
+
+
+Consultation
+Internal stakeholders:           Finance and Procurement Section
+                                 Legal Services Section
+                                 Renewable Energy Target Liability Section
+                                 Liability Management Operations Section
+                                 Carbon Farming Initiative Section
+External stakeholders:           Nil
+
+
+
+
+Endorsement
+Endorsed on:                      /07/2013
+
+By:                              Robert Ford
+                                 Financial Accountant
+                                 Corporate Services Division
+Signature:
+
+
+
+
+Approval
+Approved on:                      /07/2013
+
+By:                             Chris Payne
+                                Financial Controller
+                                Corporate Services Division
+Signature:
+
+
+
+Period of effect:               June 2013–June 2015
+
+
+
+
+V1.0 – 21/06/2013            SOP 9.0 Debt management                         9|P a g e
+Review date:                       June 2015
+
+
+
+Version control
+Version             Date           Author                 Approver
+
+1.0                  /07/2013      Scott O’Donnell        Chris Payne
+
+
+
+
+V1.0 – 21/06/2013               SOP 9.0 Debt management                 10 | P a g e
+Appendix A: BPM 9.0 Debt management
+                                                                                                                                                                                                                                                               Legislative Recognition Points
+                                                                                                                                                                                                                                                               LRR1.       RE-Elec s.37 & 38AC
+Clean Energy Regulator                                                                                                                                                                                                                                         LRR2.       CE s.100(1),(3)to(7), s.111(1),(2),(5)&(6)
+                                                                                                                                                                                                                                                               LRR3.       CE s.132, 140, 216
+                                                                                                                                                                                                                                                                           ANREU s.66K
+BPM 9.0 – Debt management                                                                                                                                                                                                                                                  CC-CFI s.183
+                                                                                                                                                                                                                                                                           RE-Elec s.50, 95 & 98
+CER Legislative Revenue                                                                                                                                                                                                                                        LRR4.       CE s.125(1)to(7), 133(1)to(5), 134A(1)to(4)
+                                         Debtor                                                             Business area                                                                     CDM                                           Legal              LRR5.       CE s.128(1)to(5), 133(1)to(5), 134A(1)to(4)
+  Recognition points                                                                                                                                                                                                                                           LRR6.       CE s.129(1)to(4), 131(1)
+                                                                                                                                                                                                                                                               LRR7.       CE s.212(1),(2),(3),(5)&(6)
+                                      Credit note                                                                                             Provide to Comms for                                                                 Notified by email of high               ANREU s.66F(1),(2),(4)&(6)
+     Renewable energy                                                      Start                                                                  upload to the                                                                                                            CC-CFI s.179(1)to(3)
+                                                                                                                                                                                                                                    value or high risk debt
+   shortfall charge (23780) LRR1                                                                                                               Regulator’s website                                                                                             LRR9.       CE s.135(1), 213(1)
+                                          Invoice                                                                                                                                                                                                                          ANREU s.66G
+                                                                                                                                                                        LR14
+                                         Statement of                                                                                                                                                                                                          LRR10.      No references identified
+                                                                                                                                            Publish unpaid shortfall                                                                    Consider serving a
+    Carbon units charges                   account                Raise & issue invoice                                                                                                                         Prepare                                        LRR11.      Need to determine Revenue head & sub heads
+                                                                                                                                               and unpaid penalty                                                                       ‘Creditors statutory
+          (23910)             LRR2                                                                                                                                                                       recommendation for                                    LRR12.      Need to determine Revenue head & sub heads
+                                                                                                                                            information if applicable                                                                  demand for payment’
+                                                                                                                                                                                                          legal action and/or
+                                                                                                                                                                                                        engage debt collector                         LR28     Clean Energy Act 2011:
+                                                                                                                                                                                                                          Minute for                           LR13       s.135(1) Late payment penalty
+    Carbon price refunds                                                                                                                                                                                                    CFO                                           s.213(1) Late payment penalty (compliance with
+         (23920)
+                              LRR3    30 day period              Aged debtors report run                                                                                                                                                                                  relinquishment requirements under s.212)
+                                                                                                         Identify debts that are              Request payment by
+                                                                  by the Debt manager                                                                                                                                                                          LR14       s.204 Information about unpaid administrative
+                                                                                                          15 days outstanding                phone & make file note
+                                                                        fortnightly                                                                                                                                                                                       penalties
+                                           15 day
+                                                                                                                                                                                                        Approval to escalate?                  Yes             LR15       s.130 Remission of unit shortfall charge imposed
+     Shortfall charge –                 reminder letter
+                                                                                                                                                                                                                                                                          on estimation error unit shortfall
+      Interim (23930)         LRR4                                                                                                                                              LR15                                                                                      s.134A Remission of unit shortfall charge –
+                                                                                                                                                                                Consider remission of                                                                     voluntary disclosure by liable entity of incorrect
+                                           30 day
+                                                                 High value debt or high                  Request payment by                  Identify debts that are          whole or part of amount                                                                    emissions number
+                                        reminder letter   No
+                                                                          risk?                          phone & make file note                30 days outstanding             payable – refer BPM 9.5                                                                    s.135(2) Power to remit late payment penalty
+   Shortfall charge – Final
+                              LRR5                                                                                                                                                                                                                                        s.213(2) Power to remit late payment penalty
+           (23940)
+                                                                                              Yes                                                                                                                                                              LR16       s.137 Set-off
+                                                                                                                                                                                                                                                                          s.215 Set-off
+                                                                                                                                                                                  Review debt file
+                                                                                                                                                                                                                                                               FMA Act:
+  Estimation error shortfall                                                                                                                                                                                                                                   LR17        s.34(1)(a) Waive the Commonwealth’s right to
+                             LRR6     60 day period
+      charge (23950)                                                                                                                                                                                                                   Legal assessment &
+                                                                                                                                                                                                                                                                           payment of an amount owing to the
+                                                                 Identify debts that are             Request payment by             Debt file should include:                                           LR27     No                    advice as requested
+                                                                                                                                                                                                                                                                           Commonwealth.
+                                                                  60 days outstanding               phone & make file note          - evidence of the debt                      Identify any recovery                                                          LR18        s.34(1)(b) postpone any right of the
+                                                                                                                                    - invoice                                      from 3rd party                                                                          Commonwealth to be paid a debt in priority to
+    Non-relinquishment                                                                                                              - letter of demand                                                                                                                     another debt or debts.
+                              LRR7
+     penalty (23960)                                                                                                                - details of phone call made to debtor                                                                                     LR19        s.34(1)(c) Allow payment by instalments of an
+                                         60 day letter          Liaise with Legal before
+                                                                                                                                    - confirmed contact details of debtor                               LR16                                   End                         amount owing to the Commonwealth.
+                                          of demand             issuing letter of demand               Prepare debt file
+                                                                                                                                    - signed off to pass to CDM                                                                                                LR20        s.34(1)(d) Defer the time for payment of an
+                                                                    & make file note                                                                                             Identify any set-off                                                                      amount owing to the Commonwealth.
+  Penalty interest (23980)    LRR9                                                                                                                                                                                                                             LR21        s.47(1) Write off debts to the Commonwealth as
+                                                                                                                                                                                                                                                                           authorised by an Act, or which are deemed not
+                                                                                                                                                                                        Yes                                                                                legally recoverable or considered uneconomical to
+                                                                                                                                                                                                        Continue to follow up                                              pursue.
+      Assistance unit                                                                                                                                                                                                                                          LR22        s.47(3) A waiver may be made either
+    cancellation revenue      LRR10    90 day period                                                                                                                                                                                                                       unconditionally or on the condition that a person
+          (23990)                                                                                                                                                                                                                                                          agrees to pay an amount to the Commonwealth in
+                                                                 Identify debts that are             Request payment by                                                         Is the debt economic                                                                       specified circumstances.
+                                                                                                                                          Finalise debt file
+                                                                  90 days outstanding               phone & make file note                                                           to recover?                                                               LR16        s.35 Set-off
+
+        Penalty units      LRR11                                                                                                                                                                                                                               FMA Del:
+                                                                                                                                                                                         No                                                                    LR23        Part 12 Payment by instalments
+                                                               Note 1: At any point during the process above, the management of a debt may lead                                                                                                                LR24        Part 13 Deferring the time for payment
+                Revenue sub
+                   head
+                                                               into one of the debt management options.
+                                                               Note 2: Debt may be disputed at any point. This will require the preparation of a                               Prepare minute for CFO                                                          ANREU:
+                                                                                                                                                                                      approval                                                                 LR25        s.66G Late payment penalty (compliance with
+                Revenue sub                                    debt file and pass over to CDM.                                                                                                             Minute for                                                      relinquishment requirements under s.66F)
+                   head                                        Note 3: Penalty interest can be applied. Refer to LR13, LR25 & LR26.                                                                         write-off                                          LR15        s.66G(2) Power to remit late payment penalty
+                                                                                                                                                                                                                                                               LR16        s.66J Set-off
+                                                                            Debt management options
+                                                                                                                                                                                                                                                               RE-Elec:
+            Fees           LRR12                                                                                                                                                Obtain CFO approval
+                                                                                                                LR24                                                                                                                                           LR29        s.69 Extension of time for payment
+                                                                                                                                                      LR23                          for write-off                                                              LR26        s.70 Penalty for unpaid renewable energy shortfall
+                                                                                                                LR20
+                Revenue sub                                                                                                                           LR19                                                                                                                 charge or unpaid penalty charge (interest)
+                                                                                         BPM 9.2                                    BPM 9.3                                                             LR21
+                   head                                                                                         LR29                                                                                                                                           LR15        s.103 Remit penalty charge
+                                                                                     Request for deferral                     Payment by instalment                                                                                                            LR14        s.134 Regulator may publish certain information
+                                                                                                                                  arrangement                                                                                                                  LR27        s.73-76 Recovery from a third party
+                Revenue sub
+                   head                                                                                                                                                        Process write-off entry
+                                                                                                                                                       LR15                                                                                                    CC-CFI:
+                                                                                                                                                                                                                                                               LR15        s.180(2) Power to remit late payment penalty
+                                                                                            BPM 9.4                                   BPM 9.5                                                                                                                  LR16        s.182 Set-off
+                                                                                           Debt waiver       LR17                  Remitting a debt
+                                                                                                             LR22                                                                       End                                                                    Corporations Act 2001:
+                                                                                                                                                                                                                                                               LR28       s.459E Creditor may serve statutory demand on
+                                                                                                                                                                                                                                 Policy References
+                                                                                                                                                                                                                                                                          company
+                                                                                                                                                                                                                                 P9 Debt Management
+                                                                                                                                                                                                                                                               Acronyms
+                                                                                                                                                                                                                                                               LRR – Legislative Revenue Recognition point
+                                                                                   Process by which the Regulator manages debt recovery                                                                                                                        FMIS – Financial Management Information System
+                                                                                                                                                                                                                                                               CDM – Central Debt Management
+
+
+
+
+                                          V1.0 – 21/06/2013                                                   SOP 9.0 Debt management                                                                                                                     11 | P a g e
+    Appendix B: Reminder letter template
+                                                                                  File No: Insert file number
+
+    Mr/Ms/Miss Insert Name
+    Insert Position
+    Insert Company
+    Insert Street Address
+    Insert Suburb Insert State Insert Postcode
+
+    14 March 2014
+
+
+    Reminder letter for overdue amount payable
+    RE: Unpaid invoice # {Enter invoice reference}
+
+    Dear Insert Name ,
+
+    The above invoice for ${enter amount} has recently become overdue for payment. As such, we would
+    appreciate you making this payment as soon as possible. If there is an error on our part and payment
+    has been made, please contact me immediately so that the matter can be rectified.
+
+    We note that the letter confirms that Debtor Name is liable to charges under the Insert relevant Act
+    (the Act).
+
+    In accordance with sections Insert relevant sections of the Act, the charges were payable on           .
+
+    Further, and in accordance with section Insert section of the Act, interest is payable on the
+    outstanding amounts. At present, the amounts outstanding and the interest payable by you are:
+
+
+    Charge type                                                                                 Amount
+    Charges specified in Tax Invoice xxxxxx                                                      $
+    Interest specified in Tax Invoice xxxxxx – calculated to 30 June 2013                        $
+    Interest rate 11.62% p.a. to 30 March 2013; 11.37% p.a. to 30 June 2013
+    Interest specified in Tax Invoice xxxxxx – calculated to 31 July 2013                        $
+    Interest rate 10.66 % % p.a.
+    Interest specified in Tax Invoice xxxxxx – calculated to 31 August 2013                      $
+    Interest rate 10.66 % % p.a.
+    Interest specified in Tax Invoice xxxxxx – calculated to 30 September 2013                   $
+    Interest rate 10.66 % % p.a.
+    Outstanding liability as at                                                                  $
+
+
+
+
+GPO 621 Canberra ACT 2601 T 1300 553 542 E enquiries@cleanenergyregulator.gov.au W www.cleanenergyregulator.gov.au
+Interest is accruing on the charges at the current rate of $     per day until       (A new interest rate will
+apply from Insert date).
+
+If you wish to discuss the possibility of instalment or other arrangements, you must contact Insert business
+area contact on Phone number or via Insert@cleanenergyregulator.gov.au within seven days of the date of
+this letter.
+
+Yours sincerely
+
+
+
+
+Insert name
+Executive General Manager
+Insert division
+Clean Energy Regulator
+
+
+
+
+V1.0 – 21/06/2013                           SOP 9.0 Debt management                                 13 | P a g e
+    Appendix C: Letter of demand template
+                                                                                    File No: Insert file number
+
+
+    Letter of demand
+
+    Mr/Ms/Miss Insert Name
+    Insert Position
+    Insert Company
+    Insert Street Address
+    Insert Suburb Insert State Insert Postcode
+
+    14 March 2014
+
+    Dear Insert Name ,
+
+    We refer to our correspondence to you on [insert date]. We also note [your response of xxxx date/
+    that you did not respond].
+
+    We note that Debtor Name remains liable to pay [use relevant term from legislation eg unit shortfall
+    charge] under the Insert relevant Act (the Act). The details of each [unit shortfall charge etc] are set
+    out in Attachment A.
+
+    In accordance with sections Insert relevant sections of the Act, the charges were payable on           .
+
+    Further, and in accordance with section Insert section of the Act, interest is payable on the
+    outstanding amounts. At present, the amounts outstanding and the interest payable by you are:
+
+
+    Charge type                                                                                   Amount
+    Charges specified in Tax Invoice xxxxxx                                                        $
+    Interest specified in Tax Invoice xxxxxx – calculated to 30 June 2013                          $
+    Interest rate 11.62% p.a. to 30 March 2013; 11.37% p.a. to 30 June 2013
+    Interest specified in Tax Invoice xxxxxx – calculated to 31 July 2013                          $
+    Interest rate 10.66 % % p.a.
+    Interest specified in Tax Invoice xxxxxx – calculated to 31 August 2013                        $
+    Interest rate 10.66 % % p.a.
+    Interest specified in Tax Invoice xxxxxx – calculated to 30 September 2013                     $
+    Interest rate 10.66 % % p.a.
+    Outstanding liability as at                                                                    $
+
+
+
+
+GPO 621 Canberra ACT 2601 T 1300 553 542 E enquiries@cleanenergyregulator.gov.au W www.cleanenergyregulator.gov.au
+Interest is accruing on the charges at the current rate of $     per day until       (A new interest rate will
+apply from Insert date).
+
+We demand payment of the outstanding liability, being $ Amount + $x per day interest/penalty for each
+day from tomorrow onwards within Number of[usually 7 or 14] days from the date of this letter. Note that
+you will need to calculate the interest/penalty payable up to and including the day we receive payment. Please
+contact us if you need to confirm the amount on the day you make payment.
+
+If you do not comply with this demand, the Clean Energy Regulator may commence legal proceedings to
+recover the debt. This letter may be used as evidence or in support of those legal proceedings.
+
+If you wish to discuss the contents of this letter, you must contact Insert business area contact on Phone
+number or via Insert@cleanenergyregulator.gov.au within 7 days of the date of this letter.
+
+Yours sincerely
+
+
+
+
+Insert name
+Executive General Manager
+Insert division
+Clean Energy Regulator
+
+
+
+
+V1.0 – 21/06/2013                           SOP 9.0 Debt management                                 15 | P a g e
+Appendix D: Costing template
+
+Assessment of whether recovery of a debt is economical
+
+Business area staff time and resources                          $ xxx
+
+Central Debt Management staff time and resources                $ xxx
+
+Legal area staff time and resources                             $ xxx
+
+Total cost of recovery of debt                                  $ xxx
+
+Value of debt                                                   $ xxx
+
+Surplus/(Deficit)                                               $xxx/($xxx)
+
+Recovery of a debt is economical if the value of debt exceeds the total cost of recovery of
+debt, ie surplus.
+
+
+
+
+V1.0 – 21/06/2013                   SOP 9.0 Debt management                        16 | P a g e
+Appendix E: Minute template
+
+Minute
+Attention:          Insert name
+                    Executive General Manager / Chief Financial Officer
+
+Subject:
+
+Date:
+
+From:               Insert name
+                    Director - Finance and Procurement Section
+
+
+
+Background
+Debtor name
+Amount payable
+Supporting evidence for recommendations
+
+
+Recommendations
+< xxx >
+
+
+
+
+V1.0 – 21/06/2013                SOP 9.0 Debt management                  17 | P a g e
+Sign-off
+I agree to the final recommendation above:
+
+
+____________________________________
+Insert name
+Executive General Manager / Chief Financial Officer
+Corporate Services
+
+
+
+
+GPO 621 Canberra ACT 2601 T 1300 553 542 E enquiries@cleanenergyregulator.gov.au W www.cleanenergyregulator.gov.au
+Appendix F: Engage debt collector
+
+
+
+                          Request to refer customer to debt collection agency
+
+          Customer Name
+          Customer Number
+
+          Address
+          Other contact details
+
+          Reference number
+          Amount
+          Description
+
+          tick
+                  Have you sought advice from Legal section
+                  Payment is overdue by 90 days or more
+                  Attempts have been made to contact customer and recover payments
+                  Supporting documents attached
+                  Letter of Demand sent
+          Comments
+
+
+
+                      Requested By                                          Supported By
+
+          Name                                            Name
+          Position                                        Position
+          Date                                            Date
+          Signature                                       Signature
+
+
+                      Endorsed by                                            Approved By
+
+          Name                                            Name
+          Position                                        Position
+          Date                                            Date
+          Signature                                       Signature
+
+
+
+
+GPO 621 Canberra ACT 2601 T 1300 553 542 E enquiries@cleanenergyregulator.gov.au W www.cleanenergyregulator.gov.au

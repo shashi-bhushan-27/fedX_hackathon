@@ -1,0 +1,5 @@
+General Data Protection Regulation (GDPR) - European Union
+
+This file contains information about GDPR requirements applicable to debt collection and customer data handling in the European Union.
+Personal data must be processed lawfully and transparently.
+Customers have the right to data deletion.
