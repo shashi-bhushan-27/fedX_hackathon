@@ -1,9 +1,11 @@
 import pickle, faiss, os
 from langchain_groq import ChatGroq
 from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+load_dotenv()
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
-llm = ChatGroq(model_name="llama3-70b-8192")
+llm = ChatGroq(model_name="llama-3.1-8b-instant", api_key=os.getenv("GROQ_API_KEY"))
 
 VECTOR_PATH = "app/rag/vector_store"
 
