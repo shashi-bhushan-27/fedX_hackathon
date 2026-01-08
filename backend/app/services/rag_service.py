@@ -1,32 +1,20 @@
-import faiss, pickle, os
+import pickle, faiss, os
+from langchain_groq import ChatGroq
 from sentence_transformers import SentenceTransformer
-from groq import Groq
-from dotenv import load_dotenv
-load_dotenv()
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-EMBED = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("all-MiniLM-L6-v2")
+llm = ChatGroq(model_name="llama3-70b-8192")
 
-index = faiss.read_index("app/rag/vector_store/faiss.index")
-docs = pickle.load(open("app/rag/vector_store/docs.pkl","rb"))
+VECTOR_PATH = "app/rag/vector_store"
+
+index = faiss.read_index(os.path.join(VECTOR_PATH, "faiss.index"))
+docs = pickle.load(open(os.path.join(VECTOR_PATH, "docs.pkl"), "rb"))
 
 def ask_copilot(question: str):
-    q = EMBED.encode([question])
-    _, I = index.search(q, k=3)
+    query_vec = model.encode([question])
+    _, I = index.search(query_vec, 3)
+
     context = "\n".join([docs[i].page_content for i in I[0]])
+    prompt = f"Answer strictly based on this policy:\n{context}\n\nQuestion: {question}"
 
-    prompt = f"""
-You are FedEx Recovery Copilot.
-Answer strictly using this SOP context:
-
-{context}
-
-Question: {question}
-"""
-
-    completion = client.chat.completions.create(
-        model="llama3-70b-8192",
-        messages=[{"role":"user","content":prompt}]
-    )
-
-    return completion.choices[0].message.content
+    return llm.invoke(prompt).content

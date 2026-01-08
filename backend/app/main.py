@@ -3,6 +3,8 @@ from fastapi import FastAPI
 from app.api import ingestion, prediction, allocation, dashboard, dca_portal, copilot
 
 app = FastAPI(title="FLEX-DCA AI Platform")
+from dotenv import load_dotenv
+load_dotenv()
 
 app.include_router(ingestion.router, prefix="/api")
 app.include_router(prediction.router, prefix="/api")
