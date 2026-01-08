@@ -1,4 +1,5 @@
 import axios from "axios";
+
 export default axios.create({
-  baseURL: "http://localhost:8000/api"
+  baseURL: "https://supreme-happiness-5g4pv6976x6v2vppq-8000.app.github.dev/api"
 });
