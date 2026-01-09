@@ -219,6 +219,9 @@ User Question
   Compliant Response
 ```
 
+![Alt text](/workspaces/fedX_hackathon/data/ui_images/Frame 2.jpg)
+
+
 ### LLM Choice:  Groq-hosted LLaMA-3.1-8B
 
 **Why Groq LLaMA-3.1? **
