@@ -5,5 +5,4 @@ router = APIRouter()
 
 @router.post("/predict")
 def predict(data: dict):
-    prob, risk = predict_case(list(data.values()))
-    return {"recovery_probability":prob, "aging_risk":risk}
+    return predict_case(data)
