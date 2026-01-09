@@ -225,7 +225,6 @@ User Question
 
 ![ui](https://github.com/shashi-bhushan-27/fedX_hackathon/blob/e0cc03406d071e184901ef89d4a63c949daee5d5/data/ui_images/ui_sample_data.png)
 
-### refer to /workspaces/fedX_hackathon/data/ui_images for UI sample image
 
 ### LLM Choice:  Groq-hosted LLaMA-3.1-8B
 
