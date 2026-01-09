@@ -218,6 +218,12 @@ User Question
        ▼
   Compliant Response
 ```
+
+### UI sample image
+![ui](/workspaces/fedX_hackathon/data/ui_images/Frame 2.jpg)
+![ui](/workspaces/fedX_hackathon/data/ui_images/ui_sample_data.png)
+
+
 ### refer to /workspaces/fedX_hackathon/data/ui_images for UI sample image
 
 ### LLM Choice:  Groq-hosted LLaMA-3.1-8B
