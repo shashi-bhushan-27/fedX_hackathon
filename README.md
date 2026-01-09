@@ -220,7 +220,7 @@ User Question
 ```
 
 ### UI sample image
-![ui](/workspaces/fedX_hackathon/data/ui_images/Frame 2.jpg)
+![ui]([/workspaces/fedX_hackathon/data/ui_images/Frame 2.jpg](https://github.com/shashi-bhushan-27/fedX_hackathon/blob/e0cc03406d071e184901ef89d4a63c949daee5d5/data/ui_images/ui_sample_data.png))
 ![ui](/workspaces/fedX_hackathon/data/ui_images/ui_sample_data.png)
 
 
