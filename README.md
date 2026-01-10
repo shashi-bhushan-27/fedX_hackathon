@@ -78,12 +78,12 @@ FLEX-DCA AI Platform is a **production-ready debt collection optimization system
 │                          API GATEWAY (FastAPI)                      │
 │                                                                     │
 │ /ingest    /predict   /allocate   /metrics    /copilot              │
-└───────┬───────────────┬──────────────┬──────────────┬──────────────┘
+└───────┬───────────────┬──────────────┬──────────────┬────────────── ┘
         │               │              │              │
         ▼               ▼              ▼              ▼
 ┌──────────────┐  ┌─────────────┐ ┌──────────────┐ ┌──────────────┐
-│ PostgreSQL DB│  │ ML Engine   │ │ KPI Engine   │ │ RAG AI Copilot│
-│ Case Storage │  │ CatBoost AI │ │ Aggregations │ │ Groq + FAISS  │
+│   SQLite DB  │  │ ML Engine   │ │ KPI Engine   │ │RAG AI Copilot│
+│ Case Storage │  │ CatBoost AI │ │ Aggregations │ │ Groq + FAISS │
 └──────────────┘  └─────────────┘ └──────────────┘ └──────────────┘
                              │
                              ▼
@@ -97,14 +97,14 @@ FLEX-DCA AI Platform is a **production-ready debt collection optimization system
 
 ## 🛠️ Technical Stack
 
-| Layer                | Technology                          |
-|----------------------|-------------------------------------|
+| Layer                | Technology                         |
+|----------------------|------------------------------------|
 | **Frontend**         | React.js, Tailwind CSS             |
 | **Backend**          | FastAPI (Python)                   |
 | **ML Framework**     | CatBoost                           |
 | **LLM**              | Groq-hosted LLaMA-3.1-8B Instant   |
 | **Vector DB**        | FAISS                              |
-| **Database**         | PostgreSQL                         |
+| **Database**         | SQLite                             |
 | **Deployment**       | Docker, Kubernetes-ready           |
 
 ---
