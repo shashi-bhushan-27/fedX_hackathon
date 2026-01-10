@@ -77,7 +77,7 @@ FLEX-DCA AI Platform is a **production-ready debt collection optimization system
 ┌─────────────────────────────────────────────────────────────────────┐
 │                          API GATEWAY (FastAPI)                      │
 │                                                                     │
-│ /ingest    /predict   /allocate   /metrics    /copilot              │
+│ /ingest       /predict/allocate   /metrics    /copilot              │
 └───────┬───────────────┬──────────────┬──────────────┬────────────── ┘
         │               │              │              │
         ▼               ▼              ▼              ▼
@@ -99,14 +99,12 @@ FLEX-DCA AI Platform is a **production-ready debt collection optimization system
 
 | Layer                | Technology                         |
 |----------------------|------------------------------------|
-| **Frontend**         | React.js, Tailwind CSS             |
+| **Frontend**         | React.js                           |
 | **Backend**          | FastAPI (Python)                   |
 | **ML Framework**     | CatBoost                           |
 | **LLM**              | Groq-hosted LLaMA-3.1-8B Instant   |
 | **Vector DB**        | FAISS                              |
 | **Database**         | SQLite                             |
-| **Deployment**       | Docker, Kubernetes-ready           |
-
 ---
 
 ## 📊 Data Pipeline
@@ -120,7 +118,7 @@ We built a **synthetic enterprise-grade dataset** by merging multiple Kaggle dat
 | Credit default datasets            | Credit score, default rates      |
 | Loan recovery datasets             | Closure days, recovery outcomes  |
 | Invoice payment datasets           | Invoice counts, payment delays   |
-| Business customer datasets         | B2B/B2C segmentation            |
+| Business customer datasets         | B2B/B2C segmentation             |
 | Collection agency performance data | Past recovery behavior           |
 
 ### 2. Final Dataset Schema
